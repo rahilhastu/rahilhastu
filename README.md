@@ -18,8 +18,4 @@ My Skill Set:
 - Git, Github, BitBucket
 - Docker, Kubernetes 
 
-To protect my personal email ✉️ from falling into the wrong hands, I'll have to be a bit clever in disguising it. I'll use an invisibility cloak like Harry Potter to keep it hidden from prying eyes. But if you're interested in making new connections, don't hesitate to reach out to me at my email address.
-
-MailId: yfe174pqb@mozmail.com
-
 Personal Website 🌐 : https://rahilhastu.github.io/rahil/home
