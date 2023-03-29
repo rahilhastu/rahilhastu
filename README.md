@@ -1,9 +1,8 @@
 Developer 🎧🎯
 
-I am a skilled Software Engineer with over 3 years of experience in both Backend and Frontend roles. I specialize in Product Development and Software Engineering, and I am committed to assisting companies in creating highly scalable and resilient products. My expertise enables me to build cutting-edge solutions that can handle large-scale demands while maintaining robustness and reliability.
+![My Portfolio](/me.png?raw=true "My Webpage")
 
-As an avid learner with a naturally curious and creative mind 🎨, I find myself most enthusiastic about opportunities in Software Engineering 💻 and Product Development. I approach every challenge with an unstoppable drive to learn and succeed. 
-Whether it's building something from a dream or helping to conceptualise a vision, I am confident in my ability to bring ideas to life.
+Experienced software engineer skilled in both Backend and Frontend roles with over 3 years of experience in Product Development and Software Engineering. Committed to building highly scalable and resilient products that can handle large-scale demands while maintaining robustness and reliability. Passionate about Software Engineering and Product Development, with a naturally curious and creative mindset. Enthusiastic about learning and succeeding in every challenge, with an unstoppable drive to bring ideas to life.
 
 My Skill Set:
 
