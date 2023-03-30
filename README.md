@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<a target="_blank" href="https://rahilhastu.github.io/rahil/home"><img src="./me.png" alt="My Portfolio" style="width: 700px; height: 300px;"></a>
+<a target="_blank" href="https://rahilhastu.github.io/rahil/home"><img src="./me.gif" alt="My Portfolio" style="width: 700px; height: 300px;"></a>
 </p>
 
 What's up, my fellow tech enthusiasts? -I'm a software engineer! 🕺 I've been blessed with the coding powers to tackle any challenge that comes my way, whether it's making a website look pretty with frontend magic🎨, or building the backbone of a system with backend wizardry⌨️.
