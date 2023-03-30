@@ -1,12 +1,12 @@
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+<!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) -->
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://ngl.link/rahilhastu)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/rahilhastu)
 
 <div align="center" textalign="center">
   
-[![Rahil's github stats](https://github-readme-stats.vercel.app/api?username=rahilhastu&theme=blue-green)](https://github.com/rahilhastu)
-[![Rahil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilhastu&theme=blue-green)](https://github.com/rahilhastu)
+[![Rahil's github stats](https://github-readme-stats.vercel.app/api?username=rahilhastu&theme=blue-green)]
+[![Rahil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilhastu&theme=blue-green)]
   
 </div>
   
@@ -53,5 +53,5 @@ Stackoverflow: <a href="https://stackexchange.com/users/12047226"><img src="http
 <hr>
 <br>
 
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/rahilhastu/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/rahilhastu/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)]
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
