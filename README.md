@@ -20,13 +20,15 @@
 <a target="_blank" href="https://rahilhastu.github.io/rahil/home"><img src="./me.png" alt="My Portfolio" style="width: 700px; height: 300px;"></a>
 </p>
 
-Yo, yo, yo, it's your boy - a software engineer extraordinaire! 🕺 I've been blessed with the coding powers to tackle any challenge that comes my way, whether it's making a website look pretty with frontend magic🎨, or building the backbone of a system with backend wizardry⌨️.
+What's up, my fellow tech enthusiasts? -I'm a software engineer! 🕺 I've been blessed with the coding powers to tackle any challenge that comes my way, whether it's making a website look pretty with frontend magic🎨, or building the backbone of a system with backend wizardry⌨️.
 
 I've got three years of experience under my belt, and let me tell you, I've seen some stuff. Scaling products? Pfft, easy peasy lemon squeezy💪. Handling large-scale demands? Ain't no thing but a chicken wing🐔.
 
-I live and breathe software engineering, baby!💻 It's not just a job, it's a passion. And when I'm not slaying code like a boss, you'll find me getting my creative juices flowing with some good ol' fashioned finger painting 🎨.
+I live and breathe software engineering!💻 It's not just a job, it's a passion. And when I'm not slaying code like a boss, you can catch me nodding my head to some sick rap beats! 💥 That's right, I'm a software engineering wizard by day and a rap music 🎶connoisseur by night.
 
-So hit me up with your toughest coding problems, and watch me work my magic. I'll bring your ideas to life faster than you can say "bug-free". Let's gooo!🚀<br>
+So hit me up with your coding problems, and watch me work my magic. I'll bring your ideas to life at the speed of light, with a coding expertise so strong, it'll make your head spin💫! Bugs won't stand a chance against my skills, so you can rest easy knowing your project is in good hands.
+
+So let's get started and turn your vision into reality!. Let's gooo!🚀<br>
 <h3>My Skill Set:</h3>
 
 <p align="center">
