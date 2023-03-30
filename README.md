@@ -5,8 +5,8 @@
 
 <div align="center" textalign="center">
   
-[![Rahil's github stats](https://github-readme-stats.vercel.app/api?username=rahilhastu&theme=blue-green)]
-[![Rahil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilhastu&theme=blue-green)]
+![Rahil's github stats](https://github-readme-stats.vercel.app/api?username=rahilhastu&theme=blue-green)
+![Rahil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilhastu&theme=blue-green)
   
 </div>
   
@@ -53,5 +53,5 @@ Stackoverflow: <a href="https://stackexchange.com/users/12047226"><img src="http
 <hr>
 <br>
 
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)]
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
