@@ -1,4 +1,5 @@
 Developer 🎧🎯
+<a href="https://stackexchange.com/users/12047226"><img src="https://stackexchange.com/users/flair/12047226.png" width="208" height="58" alt="profile for Rahil Hastu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Rahil Hastu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <p align="center">
 <a target="_blank" href="https://rahilhastu.github.io/rahil/home"><img src="./me.png" alt="My Portfolio" style="width: 700px; height: 300px;"></a>
