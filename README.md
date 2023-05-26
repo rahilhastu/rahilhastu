@@ -2,6 +2,7 @@
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) -->
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://ngl.link/rahilhastu)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/rahilhastu)
+![](https://komarev.com/ghpvc/?username=rahilhastu&color=blue)
 
 <div align="center" textalign="center">
   
