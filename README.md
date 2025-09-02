@@ -1,5 +1,6 @@
+
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) -->
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://ngl.link/rahilhastu)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/rahilhastu)
 ![](https://komarev.com/ghpvc/?username=rahilhastu&color=blue)
@@ -11,7 +12,7 @@
   
 </div>
   
-
+-->
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://github.com/rahilhastu) -->
 
 <h2><b>Developer</b> 🎧🎯</h2>
@@ -30,6 +31,7 @@ I live and breathe software engineering!💻 It's not just a job, it's a passion
 So hit me up with your coding problems, and watch me work my magic. I'll bring your ideas to life at the speed of light, with a coding expertise so strong, it'll make your head spin💫! Bugs won't stand a chance against my skills, so you can rest easy knowing your project is in good hands.
 
 So let's get started and turn your vision into reality!. Let's gooo!🚀<br>
+<!--
 <h3>My Skill Set:</h3>
 
 <p align="center">
@@ -56,3 +58,4 @@ Stackoverflow: <a href="https://stackexchange.com/users/12047226"><img src="http
 
 ![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+-->
